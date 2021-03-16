@@ -7,7 +7,7 @@ Here you can commit the modified version of your NotifyMe project for evaluation
 ### Steps to Participate
 1. Fork this repository
 2. Make a folder with your username ins inside the `submissions` folder
-3. Add your modified version of the NotifyME project
+3. Add your modified version of the NotifyMe project
 4. Add a Readme about your changes as well (optional)
 5. Commit Changes
 6. Open a new pull request for all the changes you've made
