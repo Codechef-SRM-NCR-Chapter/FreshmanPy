@@ -1,5 +1,5 @@
 # FreshmanPy
-FreshmenPy was an insightful two-day workshop organized by CodeChef SRM NCR Chapter on learning the basic fundamentals of the coding language - PYTHON 
+FreshmenPy was an insightful two-day workshop organized by CodeChef SRM NCR Chapter on learning the basic fundamentals of the Programming Language - PYTHON.
 Python is one of the most efficient and easy to learn programming languages which was taught with hands-on practice and 2 projects, Calculator and NotifyMe!
 
 Here you can commit the modified version of your NotifyMe project for evaluation. Based on this and the Quiz conducted on kahoot, we will decide the winners and award them with appreciation certificates!!!!!!
