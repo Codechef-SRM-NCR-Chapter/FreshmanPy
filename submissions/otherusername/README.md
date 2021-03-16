@@ -5,6 +5,6 @@
 * Change 4
 
 # Contact
-E-Mail- abc@gmail.com
-Instaagram - something
-Twitter - something
+* E-Mail- abc@gmail.com
+* Instaagram - something
+* Twitter - something
